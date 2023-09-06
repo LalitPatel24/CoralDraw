@@ -373,3 +373,200 @@ hr{
 }
 
 
+@media (max-width: 768px) {
+    
+    .main-container{
+        width: 100%;
+        height: auto;
+    }
+
+    .nav-bar{
+
+        width: 100%;
+        height: auto;
+        padding-block: 10px;
+    }
+
+    .nav-bar img{
+        width :"100px" height="40px"
+    }
+
+    .nav-bar button{
+        display: none;
+    }
+
+    .nav-bar ul{
+        display: none;
+    }
+
+    .hero-section{
+        width: 100%;
+        height: auto;
+    }
+    .right-section{
+        display: none;
+        
+    }
+
+    .left-section{
+        
+        width: 100%;
+        height: auto;
+        padding-inline: 10px;
+    }
+
+    #Trail{
+        display: none;
+    }
+
+
+    .graphics-section{
+        width: 100%;
+        height: auto;
+        
+    }
+
+    .graphics-section h1{
+        font-size: 20px;
+        padding-top: 20px;
+    }
+
+    .graphics-section h4{
+
+        padding-bottom: 20px;
+    }
+    .g-box{
+     width: 100%;
+     height: auto;
+     flex-direction: column;
+    }
+
+    .create{
+        width: 100%;
+        height: auto;
+        padding-inline: 40px;
+    }
+
+    .create h1{
+        font-size: 25px;
+    }
+
+    .create p{
+        font-size: 18px;
+    }
+
+    .good{
+        width: 100%;
+        height: auto;
+        padding-inline: 30px;
+        
+
+    }
+
+    .good h1{
+    font-size: 25px;
+    padding-top: 10px;
+    }
+
+    .good p{
+        font-size: 18px;
+    }
+
+    .tata{
+        width: 100%;
+        height: auto;
+        flex-wrap: wrap;
+        gap: 20px;
+        
+
+    }
+
+    .tata img{
+        width: 150px;
+        height: 80px;
+        
+    }
+
+    .test{
+        width: 100%;
+        height: 60vh;
+    }
+
+    .test-box{
+        width: 80%;
+        height: 30vh;
+    }
+
+    .test-box h1{
+        font-size: 25px;
+    }
+
+    .footer{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+    }
+
+    .footer1{
+
+        width: 100%;
+        height: auto;
+        padding-block: 20px;
+    }
+
+    .footer2{
+
+        width: 100%;
+        height: auto;
+        flex-wrap: wrap;
+        gap: 20px;
+        padding-block: 20px;
+
+    }
+
+    .eng{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .all{
+        width: 100%;
+        height: auto;
+
+    }
+
+    .part1{
+        width: 50%;
+        height: 10vh;
+        flex-direction: column;
+        padding-block: 10px;
+        padding-inline: 10px;
+    }
+    .part1 h1{
+        font-size: 25px;
+    }
+
+    .part2{
+        width: 50%;
+        height: 10vh;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        
+    }
+
+    .part2 ul{
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+
+
+    
+}
+
+
